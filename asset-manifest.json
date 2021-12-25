@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ms-hw/static/css/main.70d68073.css",
+    "main.js": "/ms-hw/static/js/main.9a23f1dd.js",
+    "index.html": "/ms-hw/index.html",
+    "main.70d68073.css.map": "/ms-hw/static/css/main.70d68073.css.map",
+    "main.9a23f1dd.js.map": "/ms-hw/static/js/main.9a23f1dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70d68073.css",
+    "static/js/main.9a23f1dd.js"
+  ]
+}
