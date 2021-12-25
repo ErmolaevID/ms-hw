@@ -26,7 +26,6 @@ const prepareData = (data) => {
       ],
     });
   });
-  console.log(res);
   return res;
   // return data.map((el) => {
   //   return {
