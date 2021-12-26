@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ms-hw/static/css/main.70d68073.css",
-    "main.js": "/ms-hw/static/js/main.98e8b900.js",
+    "main.css": "/ms-hw/static/css/main.964ea142.css",
+    "main.js": "/ms-hw/static/js/main.e1195f53.js",
     "index.html": "/ms-hw/index.html",
-    "main.70d68073.css.map": "/ms-hw/static/css/main.70d68073.css.map",
-    "main.98e8b900.js.map": "/ms-hw/static/js/main.98e8b900.js.map"
+    "main.964ea142.css.map": "/ms-hw/static/css/main.964ea142.css.map",
+    "main.e1195f53.js.map": "/ms-hw/static/js/main.e1195f53.js.map"
   },
   "entrypoints": [
-    "static/css/main.70d68073.css",
-    "static/js/main.98e8b900.js"
+    "static/css/main.964ea142.css",
+    "static/js/main.e1195f53.js"
   ]
 }
